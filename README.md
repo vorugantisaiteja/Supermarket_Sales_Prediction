@@ -11,7 +11,8 @@ The aim of this project is to build a model which predicts sales of the stores. 
 4. ARIMA/ExponentialSmooting/ARCH Models
 
 ## Metric
-The metric is weighted mean absolute error (WMAE). Weight of the error changes when it is holiday.
+The problem that we are trying to consider is the price prediction which is a regression problem. Hence, we should choose the metrics that are important for the regression problem. Below are the metrics that were considered for this problem.Weight of the error changes when it is holiday.
+* Weighted Mean Absolute Error (WMAE). 
 
 ## Challenges
 * Understanding, Cleaning and Exploring Data: The first challange of this data is that there are too much seasonal effects on sales. Some departments have higher sales in some seasons but on average the best departments are different. To analyze these effects, data divided weeks of the year and also holiday dates categorized.
