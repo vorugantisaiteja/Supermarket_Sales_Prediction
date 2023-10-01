@@ -1,4 +1,5 @@
 # Supermarket_Sales Analysis and Forecasting
+![download](https://github.com/vorugantisaiteja/Supermarket_Sales_Prediction/assets/42023876/edd2dce2-9a86-471f-8e74-c9588bd3dadd)
 ## Aim
 The aim of this project is to build a model which predicts sales of the stores. With this model, authorities can decide their future plans which is very important for arranging stocks, calculating revenue and deciding to make new investment or not.
 
