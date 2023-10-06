@@ -31,5 +31,5 @@ January sales are significantly less than other months. This is the result of No
 * CPI, temperature, unemployment rate and fuel price have no pattern on weekly sales.
 
 ## Future Work
-This project can be extended by incorporating sequence models like Long Shorm Term Memory (LSTM).
+When dealing with Time Series Data, Long Short-Term Memory (LSTM) is an effective approach. LSTMs can capture complex patterns and dependencies in historical sales data, allowing to make more accurate predictions.
 
